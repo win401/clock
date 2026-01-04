@@ -12,12 +12,6 @@ body {
   font-weight: 900;
 }
 
-.clock {
-  color: #fff;
-  font-size: 4rem;
-  font-family: system-ui, sans-serif;
-}
-
 .colon {
   animation: blink 1s infinite;
 }
